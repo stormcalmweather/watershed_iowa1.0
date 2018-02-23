@@ -1,0 +1,308 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd
+FamilyName:Trade Gothic LT Std
+StyleName:Regular
+MenuName:Trade Gothic LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27276
+FileModTime:1052767120
+NameArray:0,Mac,4,Trade Gothic LT Std
+NameArray:0,Win,1,Trade Gothic LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Light
+OutlineFileName:\HTF Gotham™
+ResourceID:4158
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-LightItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4158
+MacStyle:2
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Book
+OutlineFileName:\HTF Gotham™
+ResourceID:4159
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BookItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4159
+MacStyle:2
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Medium
+OutlineFileName:\HTF Gotham™
+ResourceID:4160
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-MediumItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4160
+MacStyle:2
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Bold
+OutlineFileName:\HTF Gotham™
+ResourceID:4161
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BoldItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4161
+MacStyle:2
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-LightItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4275
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BookItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4276
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-MediumItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4277
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BoldItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4278
+MacStyle:0
+FileLength:166648
+FileModTime:1049133098
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Bold
+FamilyName:Trade Gothic LT Std
+StyleName:Bold
+MenuName:Trade Gothic LT Std Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std Bold
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27688
+FileModTime:1052767120
+NameArray:0,Mac,4,Trade Gothic LT Std Bold
+NameArray:0,Win,1,Trade Gothic LT Std Bold
+NameArray:0,Win,16,Trade Gothic LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Norwester-Regular
+FamilyName:Norwester
+StyleName:Regular
+MenuName:Norwester
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Norwester
+WritingScript:Roman
+OutlineFileName:\norwester.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:11392
+FileModTime:1500981528
+NameArray:0,Mac,4,Norwester
+NameArray:0,Win,1,Norwester
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-BdCn20
+FamilyName:Trade Gothic LT Std
+StyleName:Bold Condensed No. 20
+MenuName:Trade Gothic LT Std Cn
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Trade Gothic LT Std Bold Condensed No. 20
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-BdCn20.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27556
+FileModTime:1052767120
+NameArray:0,Mac,18,Trade Gothic LT Std Bold Cn
+NameArray:0,Mac,4,Trade Gothic LT Std Bold Condensed No. 20
+NameArray:0,Win,1,Trade Gothic LT Std Cn
+NameArray:0,Win,16,Trade Gothic LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1477766883
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham-Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Medium
+WritingScript:Roman
+OutlineFileName:\GothaMed
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+FileLength:35147
+FileModTime:1049130640
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Cn18
+FamilyName:Trade Gothic LT Std
+StyleName:Condensed No. 18
+MenuName:Trade Gothic LT Std Cn
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Trade Gothic LT Std Condensed No. 18
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-Cn18.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27092
+FileModTime:1052767120
+NameArray:0,Mac,18,Trade Gothic LT Std Cn
+NameArray:0,Mac,4,Trade Gothic LT Std Condensed No. 18
+NameArray:0,Win,1,Trade Gothic LT Std Cn
+NameArray:0,Win,16,Trade Gothic LT Std
+%EndFont
+
